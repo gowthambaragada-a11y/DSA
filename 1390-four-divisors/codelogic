@@ -5,3 +5,8 @@ In these code :-
   to slove the problem :-
     example of 21:
       divisors:-1,3,7,21
+      here inner loop runs for 4 only
+      only get 1,3
+      identify carefully :-1,21  ;3,7  ;7,3 ;21,1  ; are pairs
+      loop runs for 4 which means give 1 and 3
+      by j!=n/j(for if the number is prefect square(ex:-25[5,5]) means duplicate 5 is added ) which give pair other number and that  pair is added by n/j
