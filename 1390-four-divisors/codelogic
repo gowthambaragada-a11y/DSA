@@ -1,0 +1,7 @@
+In these code :-
+  for fast approach we can run inner loop for square root of i time
+  but here is the problem is 
+    we will run square root time which means runs only for half of divisors only 
+  to slove the problem :-
+    example of 21:
+      divisors:-1,3,7,21
