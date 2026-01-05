@@ -1,13 +1,12 @@
 class Solution {
     public String largestEven(String s) {
-        int index=0;
+        int count=0;
         String r="";
-        for(int i=s.length()-1;i>=0;i--)if(s.charAt(i)=='2'){
-            index=i;
-            break;
+        for(int i=s.length()-1;i>=0;i--){
+            if(s.charAt(i)=='2')break;
+            else count++;
         }
-        if(index==0)return r;
-        for(int i=0;i<=index;i++)r+=s.charAt(i);
+        for(int i=0;i<=s.length()-1-count;i++)r+=s.charAt(i);
         return r;
     }
 }
