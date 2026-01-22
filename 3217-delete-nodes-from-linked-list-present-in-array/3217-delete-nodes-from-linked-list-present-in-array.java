@@ -9,15 +9,6 @@
  * }
  */
 class Solution {
-    static ListNode delete(ListNode head,int tergat){
-        while(head!=null&&head.val==tergat)head=head.next;
-        ListNode cur=head;
-        while(cur.next!=null){
-            if(cur.next.val==tergat)cur.next=cur.next.next;
-            else cur=cur.next;
-        }
-        return head;
-    } 
     public ListNode modifiedList(int[] nums, ListNode head) {
         if(head==null)return null;
         Set<Integer>target=new HashSet<>();
