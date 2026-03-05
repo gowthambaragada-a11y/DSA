@@ -28,4 +28,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2942-find-words-containing-character](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2942-find-words-containing-character/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0511-game-play-analysis-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0511-game-play-analysis-i/) | Easy |
 <!---LeetCode Topics End-->
