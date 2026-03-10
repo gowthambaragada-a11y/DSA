@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0053-maximum-subarray](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0832-flipping-an-image](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [2942-find-words-containing-character](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2942-find-words-containing-character/) | Easy |
 ## Database
@@ -59,4 +60,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 <!---LeetCode Topics End-->
