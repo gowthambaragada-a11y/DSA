@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0511-game-play-analysis-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0511-game-play-analysis-i/) | Easy |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
