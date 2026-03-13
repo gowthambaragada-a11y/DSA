@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2396-strictly-palindromic-number](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2769-find-the-maximum-achievable-number](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Number Theory
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0832-flipping-an-image](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
+| [2396-strictly-palindromic-number](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,4 +79,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2396-strictly-palindromic-number](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
 <!---LeetCode Topics End-->
