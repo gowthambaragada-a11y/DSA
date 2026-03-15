@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1622-fancy-sequence](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1622-fancy-sequence/) | Hard |
 | [2396-strictly-palindromic-number](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2769-find-the-maximum-achievable-number](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
@@ -85,4 +86,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2396-strictly-palindromic-number](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1622-fancy-sequence](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1622-fancy-sequence/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1622-fancy-sequence](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1622-fancy-sequence/) | Hard |
 <!---LeetCode Topics End-->
