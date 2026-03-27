@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0079-word-search](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0053-maximum-subarray](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0078-subsets](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0283-move-zeroes](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0283-move-zeroes/) | Easy |
@@ -70,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0832-flipping-an-image](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Simulation
@@ -120,9 +123,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0079-word-search/) | Medium |
 <!---LeetCode Topics End-->
