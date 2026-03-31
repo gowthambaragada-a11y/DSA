@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0078-subsets](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0090-subsets-ii/) | Medium |
+| [0191-number-of-1-bits](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0476-number-complement](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0476-number-complement/) | Easy |
 | [0832-flipping-an-image](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0191-number-of-1-bits](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
