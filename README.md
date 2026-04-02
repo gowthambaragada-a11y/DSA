@@ -137,4 +137,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0079-word-search/) | Medium |
+| [0112-path-sum](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0112-path-sum/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0112-path-sum/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0112-path-sum/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0112-path-sum/) | Easy |
 <!---LeetCode Topics End-->
