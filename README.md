@@ -137,10 +137,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0079-word-search/) | Medium |
+| [0098-validate-binary-search-tree](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0112-path-sum](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0112-path-sum/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0112-path-sum](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0112-path-sum/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -149,5 +151,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0112-path-sum](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0112-path-sum/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
