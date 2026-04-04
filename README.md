@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [1622-fancy-sequence](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1622-fancy-sequence/) | Hard |
 | [2396-strictly-palindromic-number](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2769-find-the-maximum-achievable-number](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0112-path-sum](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0112-path-sum/) | Easy |
 ## Breadth-First Search
@@ -151,10 +154,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0112-path-sum](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0112-path-sum/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
