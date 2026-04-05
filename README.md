@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0079-word-search](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0657-robot-return-to-origin](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0832-flipping-an-image](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 ## Divide and Conquer
