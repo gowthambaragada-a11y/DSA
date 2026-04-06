@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1480-running-sum-of-1d-array](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2942-find-words-containing-character](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2942-find-words-containing-character/) | Easy |
+| [3668-restore-finishing-order](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3862-find-the-smallest-balanced-index](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3862-find-the-smallest-balanced-index/) | Medium |
 ## Database
 | Problem Name | Difficulty |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [3668-restore-finishing-order](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
