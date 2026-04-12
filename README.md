@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0832-flipping-an-image](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0283-move-zeroes](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0832-flipping-an-image](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2942-find-words-containing-character](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2942-find-words-containing-character/) | Easy |
@@ -113,9 +115,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [1346-check-if-n-and-its-double-exist](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3668-restore-finishing-order](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -177,4 +181,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 <!---LeetCode Topics End-->
