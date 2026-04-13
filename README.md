@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1346-check-if-n-and-its-double-exist](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1848-minimum-distance-to-the-target-element](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2942-find-words-containing-character](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3668-restore-finishing-order](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
