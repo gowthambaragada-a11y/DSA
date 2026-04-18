@@ -6,7 +6,6 @@ class Solution {
             r=r*10+t;
             a/=10;
         }
-        if(r>n)return r-n;
-        return n-r;
+        return Math.abs(r-n);
     }
 }
