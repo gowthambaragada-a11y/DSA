@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1480-running-sum-of-1d-array](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2942-find-words-containing-character](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
@@ -194,4 +195,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 <!---LeetCode Topics End-->
