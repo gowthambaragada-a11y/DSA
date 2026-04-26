@@ -169,22 +169,26 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0112-path-sum](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0112-path-sum/) | Easy |
+| [0965-univalued-binary-tree](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0112-path-sum](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0112-path-sum/) | Easy |
+| [0965-univalued-binary-tree](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0112-path-sum/) | Easy |
+| [0965-univalued-binary-tree](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0112-path-sum](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0112-path-sum/) | Easy |
+| [0965-univalued-binary-tree](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
