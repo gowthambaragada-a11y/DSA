@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [1250-check-if-it-is-a-good-array](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1622-fancy-sequence](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1622-fancy-sequence/) | Hard |
 | [2396-strictly-palindromic-number](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2769-find-the-maximum-achievable-number](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -65,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0832-flipping-an-image](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
+| [1250-check-if-it-is-a-good-array](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
