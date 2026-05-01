@@ -221,5 +221,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Shell
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0192-word-frequency](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0192-word-frequency/) | Medium |
 | [0195-tenth-line](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0195-tenth-line/) | Easy |
 <!---LeetCode Topics End-->
