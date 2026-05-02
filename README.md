@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0283-move-zeroes](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0506-relative-ranks](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0506-relative-ranks/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0832-flipping-an-image](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [1250-check-if-it-is-a-good-array](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0506-relative-ranks](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0506-relative-ranks/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -223,4 +225,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0192-word-frequency](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0192-word-frequency/) | Medium |
 | [0195-tenth-line](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0195-tenth-line/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0506-relative-ranks](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0506-relative-ranks/) | Easy |
 <!---LeetCode Topics End-->
