@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0551-student-attendance-record-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0796-rotate-string](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0796-rotate-string](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0796-rotate-string/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
