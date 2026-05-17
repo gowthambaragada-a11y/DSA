@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0832-flipping-an-image](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [1250-check-if-it-is-a-good-array](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
+| [1306-jump-game-iii](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0112-path-sum](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
+| [1306-jump-game-iii](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -198,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0112-path-sum](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
+| [1306-jump-game-iii](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
