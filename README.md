@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0051-n-queens](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0064-minimum-path-sum](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0033-search-in-rotated-sorted-array](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
