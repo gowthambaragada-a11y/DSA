@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Number Theory
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -249,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2427-number-of-common-factors](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2427-number-of-common-factors/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
 ## Shell
 | Problem Name | Difficulty |
