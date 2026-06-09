@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3668-restore-finishing-order](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
+| [3689-maximum-total-subarray-value-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3862-find-the-smallest-balanced-index](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3862-find-the-smallest-balanced-index/) | Medium |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3689-maximum-total-subarray-value-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
