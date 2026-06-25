@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3668-restore-finishing-order](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3862-find-the-smallest-balanced-index](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3862-find-the-smallest-balanced-index/) | Medium |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0191-number-of-1-bits](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3120-count-the-number-of-special-characters-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3668-restore-finishing-order](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -179,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -191,10 +195,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1622-fancy-sequence](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1622-fancy-sequence/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3862-find-the-smallest-balanced-index](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3862-find-the-smallest-balanced-index/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -275,4 +281,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0506-relative-ranks](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0506-relative-ranks/) | Easy |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 <!---LeetCode Topics End-->
