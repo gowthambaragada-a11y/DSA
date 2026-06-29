@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1108-defanging-an-ip-address](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1672-richest-customer-wealth](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
