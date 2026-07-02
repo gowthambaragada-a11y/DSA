@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3862-find-the-smallest-balanced-index](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3862-find-the-smallest-balanced-index/) | Medium |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
+| [3975-filter-occupied-intervals](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3975-filter-occupied-intervals/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -265,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0506-relative-ranks](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0506-relative-ranks/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3975-filter-occupied-intervals](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3975-filter-occupied-intervals/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
