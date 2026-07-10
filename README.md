@@ -6,12 +6,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0061-rotate-list](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [1669-merge-in-between-linked-lists](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1669-merge-in-between-linked-lists/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0292-nim-game](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0292-nim-game/) | Easy |
 | [1250-check-if-it-is-a-good-array](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
@@ -314,4 +316,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0292-nim-game/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
