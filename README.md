@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0292-nim-game](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0292-nim-game/) | Easy |
 | [1250-check-if-it-is-a-good-array](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1622-fancy-sequence](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1622-fancy-sequence/) | Hard |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2427-number-of-common-factors](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2427-number-of-common-factors](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -107,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
