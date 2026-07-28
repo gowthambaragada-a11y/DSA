@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0283-move-zeroes](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0506-relative-ranks](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0506-relative-ranks/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
