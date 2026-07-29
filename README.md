@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2942-find-words-containing-character](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3856-trim-trailing-vowels](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3856-trim-trailing-vowels/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
