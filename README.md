@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0551-student-attendance-record-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
+| [0389-find-the-difference](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0476-number-complement](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0476-number-complement/) | Easy |
 | [0832-flipping-an-image](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
@@ -201,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0389-find-the-difference](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -295,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0389-find-the-difference](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0506-relative-ranks](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0506-relative-ranks/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
