@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2161-partition-array-according-to-given-pivot](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2540-minimum-common-value](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3862-find-the-smallest-balanced-index](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3862-find-the-smallest-balanced-index/) | Medium |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
 | [3975-filter-occupied-intervals](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3975-filter-occupied-intervals/) | Medium |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -323,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3975-filter-occupied-intervals](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3975-filter-occupied-intervals/) | Medium |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -335,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2078-two-furthest-houses-with-different-colors](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
