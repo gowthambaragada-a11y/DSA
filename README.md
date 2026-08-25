@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3668-restore-finishing-order](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -231,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3120-count-the-number-of-special-characters-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3668-restore-finishing-order](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
