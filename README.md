@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0061-rotate-list](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [1669-merge-in-between-linked-lists](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1669-merge-in-between-linked-lists/) | Medium |
+| [2181-merge-nodes-in-between-zeros](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0657-robot-return-to-origin](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0832-flipping-an-image](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2181-merge-nodes-in-between-zeros](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 ## Divide and Conquer
