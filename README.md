@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3862-find-the-smallest-balanced-index](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3862-find-the-smallest-balanced-index/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
 | [3975-filter-occupied-intervals](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3975-filter-occupied-intervals/) | Medium |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
