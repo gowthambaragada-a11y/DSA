@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0061-rotate-list](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0061-rotate-list/) | Medium |
+| [0141-linked-list-cycle](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [1669-merge-in-between-linked-lists](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1669-merge-in-between-linked-lists/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0061-rotate-list](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0141-linked-list-cycle](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0283-move-zeroes/) | Easy |
@@ -232,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0389-find-the-difference](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -402,4 +405,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
