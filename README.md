@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0061-rotate-list](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0061-rotate-list/) | Medium |
+| [0206-reverse-linked-list](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [1669-merge-in-between-linked-lists](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1669-merge-in-between-linked-lists/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
@@ -391,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0206-reverse-linked-list](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
