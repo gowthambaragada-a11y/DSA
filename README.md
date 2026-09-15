@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
 | [3975-filter-occupied-intervals](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3975-filter-occupied-intervals/) | Medium |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
+| [4024-nearest-available-drone](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/4024-nearest-available-drone/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -362,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3483-unique-3-digit-even-numbers](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
+| [4024-nearest-available-drone](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/4024-nearest-available-drone/) | Easy |
 ## Shell
 | Problem Name | Difficulty |
 | ------- | ------- |
