@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0392-is-subsequence](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0832-flipping-an-image](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0189-rotate-array](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0506-relative-ranks](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0506-relative-ranks/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -226,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0350-intersection-of-two-arrays-ii](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -235,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -336,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0506-relative-ranks](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0506-relative-ranks/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
