@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2942-find-words-containing-character](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3856-trim-trailing-vowels](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3856-trim-trailing-vowels/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0832-flipping-an-image](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 ## Divide and Conquer
