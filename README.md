@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0079-word-search](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -425,7 +426,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0155-min-stack](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0682-baseball-game](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
