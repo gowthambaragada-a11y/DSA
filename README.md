@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0551-student-attendance-record-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0796-rotate-string](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
@@ -230,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0392-is-subsequence/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Binary Search
@@ -374,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -434,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0155-min-stack](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0155-min-stack/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0682-baseball-game](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 ## Bracket Sequences
@@ -442,4 +446,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 <!---LeetCode Topics End-->
