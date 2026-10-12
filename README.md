@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0189-rotate-array](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0292-nim-game](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0292-nim-game/) | Easy |
+| [0326-power-of-three](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0836-rectangle-overlap](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1250-check-if-it-is-a-good-array](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
@@ -424,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0326-power-of-three](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
