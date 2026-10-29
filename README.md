@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3975-filter-occupied-intervals](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3975-filter-occupied-intervals/) | Medium |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 | [4024-nearest-available-drone](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/4024-nearest-available-drone/) | Easy |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/4048-count-values-with-equally-spaced-occurrences-i/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -283,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/4048-count-values-with-equally-spaced-occurrences-i/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
