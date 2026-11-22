@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
