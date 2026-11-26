@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3270-find-the-key-of-the-numbers](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3270-find-the-key-of-the-numbers/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3360-stone-removal-game/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2161-partition-array-according-to-given-pivot](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [3360-stone-removal-game](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3360-stone-removal-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
