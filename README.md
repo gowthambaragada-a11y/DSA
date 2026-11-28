@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3345-smallest-divisible-digit-product-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3360-stone-removal-game](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3360-stone-removal-game/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2427-number-of-common-factors](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -182,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3668-restore-finishing-order](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -297,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3120-count-the-number-of-special-characters-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3668-restore-finishing-order](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -309,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gowthambaragada-a11y/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
