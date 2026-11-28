@@ -1,10 +1,8 @@
 class Solution {
     public boolean checkPrimeFrequency(int[] nums) {
-        for(int i:nums){
-            int c=0;
-            for(int j:nums)if(i==j)c++;
-            if(isprime(c))return true;
-        }
+        int f[]=new int[101];
+        for(int i:nums)f[i]++;
+        for(int i:f)if(isprime(i))return true;
         return false;
     }
     boolean isprime(int n){
